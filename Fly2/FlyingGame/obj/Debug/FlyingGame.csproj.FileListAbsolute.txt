@@ -1,0 +1,11 @@
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\bin\Debug\FlyingGame.exe.config
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\bin\Debug\FlyingGame.exe
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\bin\Debug\FlyingGame.pdb
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\obj\Debug\FlyingGame.csprojAssemblyReference.cache
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\obj\Debug\FlyingGame.Form1.resources
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\obj\Debug\FlyingGame.Properties.Resources.resources
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\obj\Debug\FlyingGame.csproj.GenerateResource.cache
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\obj\Debug\FlyingGame.csproj.CoreCompileInputs.cache
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\obj\Debug\FlyingGame.exe
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\obj\Debug\FlyingGame.pdb
+C:\Users\Vitas\Documents\GitHub\игрульки\сбей самолет\FlyingGame\FlyingGame\obj\Debug\FlyingGame.mainForm.resources
